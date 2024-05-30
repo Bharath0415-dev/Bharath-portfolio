@@ -29,13 +29,13 @@ function Hero() {
             <h1>Bharath <br/> Kumara</h1>
             <h2>Software Devoloper</h2>
             <span>
-                <a href="" target='_blank'>
+                <a href="https://www.linkedin.com/in/bharath-kumara/" target='_blank'>
                     <img src={linkedinLogo} alt="" />
                 </a>
                 <a href="" target='_blank'>
-                    <img src={githubLogo} alt="" />
+                    <img src={githubLogo} alt="https://github.com/Bharath0415-dev" />
                 </a>
-                <a href="" target='_blank'>
+                <a href="https://www.instagram.com/bk__reddy/" target='_blank'>
                     <img src={instaLogo} alt="" />
                 </a>
             </span>
